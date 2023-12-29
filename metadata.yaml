@@ -1,7 +1,7 @@
 homepage: "https://discovery.popin.cc/"
 documentation: "https://business.mediago.io/platform/helpCenter/conversionTrackingSection#qa100053"
 versions:
-  - sha: 4e47c784791557068da8b91feb6627f08affb9e8
+  - sha: 073f1f35a9d5ec41031c5847d2fad993ac7d037f
     changeNotes: first commit
   
 
