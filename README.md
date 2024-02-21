@@ -1,2 +1,2 @@
-# discocery-ecomm-pixel
-discocery-ecomm-pixel
+# discovery-ecomm-pixel
+discovery-ecomm-pixel
